@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-9z$!3mvy%zat^4i$h#fy1vkjc)us4&39dom!5tlhd9=(aa1$)r
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['python-djangoapiforreact.onrender.com']
 
 
 # Application definition
